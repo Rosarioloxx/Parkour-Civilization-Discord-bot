@@ -20,4 +20,16 @@ Clone this repository to your local machine or download the source code.
 ### Step 2: Install Dependencies
 Ensure you have Python and pip installed. Then install the `discord.py` library using:
 ```bash
-pip install discord.py
+`pip install discord.py`
+
+### Step 3: Set Up Your Discord Bot
+Create a bot on the Discord Developer Portal.
+Copy the bot token.
+Invite the bot to your Discord server with the required permissions.
+
+### Step 4: Configure the Bot
+Open the bot's source code file (e.g., parkour_bot.py).
+Replace 'YOUR_BOT_TOKEN_HERE' with your actual bot token.
+
+### Step 5: Run the Bot
+Execute the following command in your terminal or command prompt:
